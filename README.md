@@ -40,6 +40,8 @@ Each tool profile follows a consistent format:
 | Version | Date | Notes |
 |---------|------|-------|
 | [v1.0.0](https://github.com/american-journalism-project/field-guide-changelog/releases/tag/v1.0.0) | 2025-10-21 | Initial published version |
+| [v1.1.0](https://github.com/american-journalism-project/field-guide-changelog/releases/tag/v1.1.0) | 2026-03-30 | Added Civilio, Smart Transcripts. Removed City Meetings NYC, SatchelAI. Updated Gigafact Parser. |
+
 
 ## Note
 
