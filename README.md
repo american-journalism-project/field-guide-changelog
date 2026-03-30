@@ -6,16 +6,16 @@ A living resource from [The American Journalism Project](https://theajp.org)'s P
 
 This guide helps local news outlets navigate AI tools for public meeting coverage. Each profile details what a tool does, how AI is used, who it's for, and what makes it different. Rather than making specific recommendations, we're sharing what we've learned so that newsrooms can make informed decisions.
 
-For more on our approach and methodology, see [About This Project](About%20This%20Project.md).
+For more on our approach and methodology, see [About This Project](About-This-Project.md).
 
 ## Tools Reviewed
 
 | Tool | URL | Highlight |
 |------|-----|-----------|
-| [City Meetings NYC](City%20Meetings%20NYC.md) | citymeetings.nyc | Human directed, AI-powered public meeting summaries for New York City council meetings |
-| [Civic Band](Civic%20Band.md) | civic.band | A large datasette collection of PDF extractions from civic entities |
+| [City Meetings NYC](City-Meetings-NYC.md) | citymeetings.nyc | Human directed, AI-powered public meeting summaries for New York City council meetings |
+| [Civic Band](Civic-Band.md) | civic.band | A large datasette collection of PDF extractions from civic entities |
 | [CoverGov](CoverGov.md) | covergov.com | Turns government data into searchable insights |
-| [Digital Democracy](Digital%20Democracy.md) | calmatters.digitaldemocracy.org | Harnesses big data, AI, and an easy-to-use interface for statewide policy transparency |
+| [Digital Democracy](Digital-Democracy.md) | calmatters.digitaldemocracy.org | Harnesses big data, AI, and an easy-to-use interface for statewide policy transparency |
 | [Everlaw](Everlaw.md) | everlaw.com | Project-based document assistant made for large investigations |
 | [Gigafact/Parser](Gigafact%3AParser.md) | gigafact.org/parser | Transcribes and analyzes public comments by public officials to surface claims and talking points |
 | [Hamlet](Hamlet.md) | myhamlet.com | AI-powered meeting summaries with historical, searchable data from hundreds of U.S. jurisdictions |
