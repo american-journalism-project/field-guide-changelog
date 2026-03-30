@@ -1,9 +1,9 @@
-# Gigafact/Parser
+# Gigafact Parser
 
 ## Details
 - URL: gigafact.org/parser/
 - Highlight: A civic platform for news professionals to transcribe and analyze audio and video recordings of public comments by public officials to surface their claims and talking points. 
-- Summary: Gigafact’s Parser aids journalists in monitoring and synthesizing comments made by public figures. It supports fact-checking, post-debate analysis, voter guides and profiles of politicians	
+- Summary: Gigafact Parser aids journalists in monitoring and synthesizing comments made by public figures. It supports fact-checking, post-debate analysis, voter guides and profiles of politicians	
 
 ## What is this for?
 Parser’s primary function is to bring together, into a searchable and indexed dataset, the public statements of public figures. The ideal use case is to collect statements made in unofficial settings such as in TV, radio or podcast appearances.

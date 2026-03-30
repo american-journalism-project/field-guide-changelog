@@ -18,6 +18,8 @@ The result is an aggregated collection of AI vendors that meet a range of highly
 
 Each vendor profile includes a high-level summary of its service, recommended use cases, pros and cons, and what makes it different from other tools.
 
+A changelog of updates to this guide is available at the [AJP Field Guide Changelog on GitHub](https://github.com/american-journalism-project/field-guide-changelog).
+
 ## Newsroom clients
 See individual vendors for newsroom partnership information.
 

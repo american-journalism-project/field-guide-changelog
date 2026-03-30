@@ -12,16 +12,18 @@ For more on our approach and methodology, see [About This Project](About-This-Pr
 
 | Tool | URL | Highlight |
 |------|-----|-----------|
-| [City Meetings NYC](City-Meetings-NYC.md) | citymeetings.nyc | Human directed, AI-powered public meeting summaries for New York City council meetings |
 | [Civic Band](Civic-Band.md) | civic.band | A large datasette collection of PDF extractions from civic entities |
+| [Civilio](Civilio.md) | civilio.ai | Civilio organizes public meeting information into searchable and verifiable outputs |
 | [CoverGov](CoverGov.md) | covergov.com | Turns government data into searchable insights |
 | [Digital Democracy](Digital-Democracy.md) | calmatters.digitaldemocracy.org | Harnesses big data, AI, and an easy-to-use interface for statewide policy transparency |
 | [Everlaw](Everlaw.md) | everlaw.com | Project-based document assistant made for large investigations |
-| [Gigafact/Parser](Gigafact%3AParser.md) | gigafact.org/parser | Transcribes and analyzes public comments by public officials to surface claims and talking points |
+| [Gigafact Parser](Gigafact-Parser.md) | gigafact.org/parser | Transcribes and analyzes public comments by public officials to surface claims and talking points |
 | [Hamlet](Hamlet.md) | myhamlet.com | AI-powered meeting summaries with historical, searchable data from hundreds of U.S. jurisdictions |
 | [LocalLens](LocalLens.md) | thelocallens.org | AI-powered public meeting database with searchable summaries across the United States |
 | [SatchelAI](SatchelAI.md) | contentedai.com | A collection of AI-powered creation tools and public meeting transcription service |
 | [SeeGov](SeeGov.md) | seegov.org | Helps civic creators and journalists produce and share video highlights of local government meetings |
+| [SmartTranscripts](SmartTranscripts.md) | github.com | A free, open-source framework for converting public meeting video into interactive, searchable, and shareable web pages. |
+
 
 ## Structure
 
@@ -31,7 +33,7 @@ Each tool profile follows a consistent format:
 - **What is this for?** — Core functionality and use cases
 - **How is AI used?** — Details on the AI layer
 - **What makes it different from other tools?** — Positioning relative to the landscape
-- **Pros and Cons** — Honest assessment of strengths and limitations
+- **Pros and Cons** — How newsrooms may assess the strengths and limitations
 
 ## Versions
 
