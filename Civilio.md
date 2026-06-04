@@ -6,7 +6,8 @@
 - Summary: Civilio (formerly named HeyWire) is a platform that combines a large database of municipal meetings, ordinances, and news articles with analytical tools designed for journalists, academic researchers, and civic professionals.
 
 ## What is this for?
-Civilio processes meeting recordings and agenda documents into searchable transcripts and summaries structured for reporters to use in their research. It currently includes more than 300,000 municipal meetings dating back to 2021, with roughly 65,000 being added monthly. 
+
+Civilio processes meeting recordings and agenda documents into searchable transcripts and summaries structured for reporters to use in their research.
 
 For each meeting it covers, Civilio combines features that most comparable tools still offer only in pieces:
 - Overview - complete with meeting details and summarization of each section from the publicly available recording
@@ -16,12 +17,14 @@ For each meeting it covers, Civilio combines features that most comparable tools
 - Financial - quantifies the financial impact of each topic in the meeting
 - Reports - generates a custom report, based on your optional prompts, of what it knows about the meeting
 
-As of this writing, Civilio is still operating in beta status and their plan is to fully launch in Q2 of 2026. The product will be a paid service, but Civilio has been working with JSOs, Press Associations, and other grants to reduce costs for participating organizations.
+Civilio emerged recently out of their beta and now offers a clear pricing structure (Basic at $29/mo, Pro at $59/mo, and a Custom option for larger coverage). They have also recently initiated a [partnership with INN to offer 20% discounts](https://inn.org/resources/civilio/) to member organizations.
+
+Civilio was honored in the 2026 Next Challenge for Media and Journalism National Awards, [winning the Cornerstone Award for Local News Infrastructure](https://www.linkedin.com/posts/glen-nelson-center_localnews-journalism-nextchallengemedia-activity-7466304246695776256-wVHS). 
 
 ## How is AI used?
 Civilio deploys AI heavily throughout its workflow. To pull together all of this meeting data, it’s designed to be a fully automated system that uses a variety of tactics to reduce errors and hallucinations. It has been built specifically for reporters to help research public meetings more efficiently and all outputs are intended to be verified by a human before publishing.
 
-Using data scientists at the University of Virginia, Civilio presents independently benchmarked performance scores that achieve 99.7% transcript accuracy, 96% correct speaker attribution, and 93%+ participant identification accuracy.
+Using data scientists at the University of Virginia, Civilio presents independently benchmarked performance scores that achieve 99.7% transcript accuracy, 98.1% correct speaker attribution, and 97.13%+ participant identification accuracy. More information and details into these benchmarking results are published on their website at https://civilio.ai/benchmarking.
 
 ## What makes it different from other tools?
 Civilio's origins in local news publishing — Co-Founder Von Raees started his first newspaper in 1996 and now operates 21 publications in Southern California — give the platform a newsroom-first perspective. The team has built and reviewed the product with approximately 40 different publishers while still in beta.
@@ -33,8 +36,7 @@ Civilio goes beyond offering a full meeting overview, summarization, searchable 
 - Combining official meeting documents with transcripts is a powerful feature
 
 ## Cons
-- The platform is still in beta and the team is still building toward full-scale operations
-- Pricing beyond the beta period is not yet established, but costs will likely reflect the amount of data required to cover each meeting's deployment
+- None
 
 ## Newsroom clients
 Not currently in use by any AJP portfolio members to our knowledge
